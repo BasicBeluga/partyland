@@ -1,4 +1,7 @@
 description: A new TrueGRF project
-license: CC0-1.0
+grfid: f1c03424
+license: CC-BY-NC-SA-4.0
+name: partyland
 type: industry
+url: https://github.com/BasicBeluga/partyland
 version: 6
